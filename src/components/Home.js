@@ -170,6 +170,7 @@ export const Home = () => {
         }
         <h4> Ukupno za naplatu:  {totalPrice() * 1.05}</h4>
         <h4>dostava je uracunata u cenu</h4>
+        <button> Poruci</button>
           </div>
 
         
